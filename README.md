@@ -1,5 +1,4 @@
-# Railway-Reservation-System
-## EX NO:- 3 - Railway-Reservation-System
+# EX NO:- 3 - Railway-Reservation-System
 ## Name - Srikaran M
 ## Reg No - 212223040206
 ## AIM
